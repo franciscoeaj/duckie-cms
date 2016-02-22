@@ -1,0 +1,134 @@
+[21-Nov-2015 22:39:49 UTC] PHP Warning:  include(./core/layout/top.php): failed to open stream: No such file or directory in /home/freteagora/public_html/cms/core/functions.php on line 13
+[21-Nov-2015 22:39:49 UTC] PHP Warning:  include(): Failed opening './core/layout/top.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/freteagora/public_html/cms/core/functions.php on line 13
+[21-Nov-2015 22:47:41 UTC] PHP Warning:  include(./core/layout/top.php): failed to open stream: No such file or directory in /home/freteagora/public_html/cms/core/functions.php on line 13
+[21-Nov-2015 22:47:41 UTC] PHP Warning:  include(): Failed opening './core/layout/top.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/freteagora/public_html/cms/core/functions.php on line 13
+[21-Nov-2015 22:55:54 UTC] PHP Warning:  include(./core/layout/top.php): failed to open stream: No such file or directory in /home/freteagora/public_html/cms/core/functions.php on line 13
+[21-Nov-2015 22:55:54 UTC] PHP Warning:  include(): Failed opening './core/layout/top.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/freteagora/public_html/cms/core/functions.php on line 13
+[21-Nov-2015 22:57:56 UTC] PHP Warning:  include(./modules/users/remove.php): failed to open stream: No such file or directory in /home/freteagora/public_html/cms/core/functions.php on line 14
+[21-Nov-2015 22:57:56 UTC] PHP Warning:  include(): Failed opening './modules/users/remove.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/freteagora/public_html/cms/core/functions.php on line 14
+[21-Nov-2015 22:58:30 UTC] PHP Warning:  include(./modules/users/remove.php): failed to open stream: No such file or directory in /home/freteagora/public_html/cms/core/functions.php on line 14
+[21-Nov-2015 22:58:30 UTC] PHP Warning:  include(): Failed opening './modules/users/remove.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/freteagora/public_html/cms/core/functions.php on line 14
+[21-Nov-2015 23:01:06 UTC] PHP Warning:  require_once(functions.php): failed to open stream: No such file or directory in /home/freteagora/public_html/cms/core/main.php on line 4
+[21-Nov-2015 23:01:06 UTC] PHP Fatal error:  require_once(): Failed opening required 'functions.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/freteagora/public_html/cms/core/main.php on line 4
+[21-Nov-2015 23:21:18 UTC] PHP Warning:  include(./core/layout/top.php): failed to open stream: No such file or directory in /home/freteagora/public_html/cms/core/functions.php on line 14
+[21-Nov-2015 23:21:18 UTC] PHP Warning:  include(): Failed opening './core/layout/top.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/freteagora/public_html/cms/core/functions.php on line 14
+[21-Nov-2015 23:22:36 UTC] PHP Warning:  include(./core/layout/top.php): failed to open stream: No such file or directory in /home/freteagora/public_html/cms/core/functions.php on line 14
+[21-Nov-2015 23:22:36 UTC] PHP Warning:  include(): Failed opening './core/layout/top.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/freteagora/public_html/cms/core/functions.php on line 14
+[22-Nov-2015 01:46:10 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/freteagora/public_html/cms/modules/users/insert.php on line 38
+[22-Nov-2015 01:46:12 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/freteagora/public_html/cms/modules/users/insert.php on line 38
+[22-Nov-2015 02:10:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freteagora/public_html/cms/modules/users/manage.php on line 47
+[22-Nov-2015 02:11:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freteagora/public_html/cms/modules/users/manage.php on line 48
+[22-Nov-2015 02:11:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freteagora/public_html/cms/modules/users/manage.php on line 48
+[22-Nov-2015 02:11:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freteagora/public_html/cms/modules/users/manage.php on line 48
+[22-Nov-2015 02:11:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freteagora/public_html/cms/modules/users/manage.php on line 48
+[22-Nov-2015 02:11:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freteagora/public_html/cms/modules/users/manage.php on line 48
+[22-Nov-2015 02:14:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freteagora/public_html/cms/modules/users/manage.php on line 48
+[22-Nov-2015 02:14:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freteagora/public_html/cms/modules/users/manage.php on line 47
+[22-Nov-2015 02:14:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freteagora/public_html/cms/modules/users/manage.php on line 47
+[22-Nov-2015 02:14:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freteagora/public_html/cms/modules/users/manage.php on line 47
+[22-Nov-2015 02:14:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freteagora/public_html/cms/modules/users/manage.php on line 49
+[22-Nov-2015 02:14:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freteagora/public_html/cms/modules/users/manage.php on line 49
+[22-Nov-2015 02:15:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/freteagora/public_html/cms/modules/users/manage.php on line 49
+[22-Nov-2015 02:21:07 UTC] PHP Parse error:  syntax error, unexpected ''</td>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/freteagora/public_html/cms/modules/users/manage.php on line 55
+[22-Nov-2015 02:21:10 UTC] PHP Parse error:  syntax error, unexpected ''</td>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/freteagora/public_html/cms/modules/users/manage.php on line 55
+[23-Nov-2015 02:02:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/freteagora/public_html/cms/modules/texts/insert.php on line 24
+[23-Nov-2015 02:02:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/freteagora/public_html/cms/modules/texts/insert.php on line 24
+[23-Nov-2015 02:46:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/freteagora/public_html/cms/modules/banners/insert.php on line 10
+[23-Nov-2015 02:46:01 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/freteagora/public_html/cms/modules/banners/insert.php on line 10
+[23-Nov-2015 02:46:07 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/freteagora/public_html/cms/modules/banners/insert.php on line 10
+[23-Nov-2015 02:46:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/freteagora/public_html/cms/modules/banners/insert.php on line 10
+[25-Nov-2015 22:16:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/freteagora/public_html/cms/modules/users/edit.php on line 5
+[25-Nov-2015 22:16:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/freteagora/public_html/cms/modules/users/edit.php on line 5
+[25-Nov-2015 22:16:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/freteagora/public_html/cms/modules/users/edit.php on line 5
+[25-Nov-2015 22:16:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/freteagora/public_html/cms/modules/users/edit.php on line 5
+[25-Nov-2015 22:16:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/freteagora/public_html/cms/modules/users/edit.php on line 5
+[25-Nov-2015 22:16:09 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/freteagora/public_html/cms/modules/users/edit.php on line 5
+[25-Nov-2015 22:17:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/freteagora/public_html/cms/modules/users/edit.php on line 97
+[25-Nov-2015 22:17:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/freteagora/public_html/cms/modules/users/edit.php on line 97
+[25-Nov-2015 22:18:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/freteagora/public_html/cms/modules/users/edit.php on line 97
+[25-Nov-2015 22:18:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/freteagora/public_html/cms/modules/users/edit.php on line 97
+[25-Nov-2015 22:18:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/freteagora/public_html/cms/modules/users/edit.php on line 97
+[25-Nov-2015 22:18:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/freteagora/public_html/cms/modules/users/edit.php on line 97
+[25-Nov-2015 22:18:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/freteagora/public_html/cms/modules/users/edit.php on line 98
+[25-Nov-2015 22:18:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/freteagora/public_html/cms/modules/users/edit.php on line 98
+[25-Nov-2015 22:18:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/freteagora/public_html/cms/modules/users/edit.php on line 98
+[25-Nov-2015 22:18:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/freteagora/public_html/cms/modules/users/edit.php on line 98
+[25-Nov-2015 22:18:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/freteagora/public_html/cms/modules/users/edit.php on line 98
+[25-Nov-2015 22:18:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/freteagora/public_html/cms/modules/users/edit.php on line 98
+[25-Nov-2015 22:29:00 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/freteagora/public_html/cms/core/functions.php on line 48
+[25-Nov-2015 22:29:01 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/freteagora/public_html/cms/core/functions.php on line 48
+[25-Nov-2015 22:29:02 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/freteagora/public_html/cms/core/functions.php on line 48
+[25-Nov-2015 22:29:25 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/freteagora/public_html/cms/core/functions.php on line 48
+[25-Nov-2015 22:29:26 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/freteagora/public_html/cms/core/functions.php on line 48
+[25-Nov-2015 22:29:26 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/freteagora/public_html/cms/core/functions.php on line 48
+[25-Nov-2015 22:29:27 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/freteagora/public_html/cms/core/functions.php on line 48
+[25-Nov-2015 22:30:07 UTC] PHP Fatal error:  Call to undefined function get_edit_users_content() in /home/freteagora/public_html/cms/modules/users/edit.php on line 39
+[25-Nov-2015 22:40:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/freteagora/public_html/cms/modules/users/edit.php on line 5
+[25-Nov-2015 22:40:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/freteagora/public_html/cms/modules/users/edit.php on line 5
+[25-Nov-2015 22:40:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/freteagora/public_html/cms/modules/users/edit.php on line 5
+[25-Nov-2015 22:40:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/freteagora/public_html/cms/modules/users/edit.php on line 5
+[25-Nov-2015 23:03:32 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/freteagora/public_html/cms/modules/users/edit.php on line 44
+[25-Nov-2015 23:04:13 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/freteagora/public_html/cms/modules/users/edit.php on line 44
+[25-Nov-2015 23:04:14 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/freteagora/public_html/cms/modules/users/edit.php on line 44
+[25-Nov-2015 23:04:15 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/freteagora/public_html/cms/modules/users/edit.php on line 44
+[25-Nov-2015 23:19:33 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/freteagora/public_html/cms/modules/users/edit.php on line 35
+[28-Nov-2015 21:38:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freteagora/public_html/cms/core/layout/top.php:236) in /home/freteagora/public_html/cms/modules/users/edit.php on line 48
+[28-Nov-2015 21:38:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freteagora/public_html/cms/core/layout/top.php:236) in /home/freteagora/public_html/cms/modules/users/edit.php on line 48
+[28-Nov-2015 21:39:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freteagora/public_html/cms/core/layout/top.php:236) in /home/freteagora/public_html/cms/modules/users/edit.php on line 48
+[28-Nov-2015 21:47:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freteagora/public_html/cms/core/layout/top.php:236) in /home/freteagora/public_html/cms/modules/users/edit.php on line 47
+[28-Nov-2015 21:52:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/freteagora/public_html/cms/core/functions.php on line 42
+[28-Nov-2015 21:52:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/freteagora/public_html/cms/core/functions.php on line 44
+[28-Nov-2015 21:54:43 UTC] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE), expecting ',' or ';' in /home/freteagora/public_html/cms/modules/users/edit.php on line 48
+[28-Nov-2015 21:54:45 UTC] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE), expecting ',' or ';' in /home/freteagora/public_html/cms/modules/users/edit.php on line 48
+[28-Nov-2015 22:04:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/freteagora/public_html/cms/modules/users/edit.php on line 61
+[28-Nov-2015 22:04:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/freteagora/public_html/cms/modules/users/edit.php on line 61
+[28-Nov-2015 22:04:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/freteagora/public_html/cms/modules/users/edit.php on line 61
+[28-Nov-2015 22:53:01 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/freteagora/public_html/cms/modules/users/edit.php on line 20
+[28-Nov-2015 22:53:03 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/freteagora/public_html/cms/modules/users/edit.php on line 20
+[04-Dec-2015 09:56:06 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ':' in /home/freteagora/public_html/cms/login.php on line 55
+[04-Dec-2015 10:01:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/freteagora/public_html/cms/login.php on line 76
+[04-Dec-2015 10:01:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/freteagora/public_html/cms/login.php on line 76
+[04-Dec-2015 10:01:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/freteagora/public_html/cms/login.php on line 76
+[04-Dec-2015 10:02:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/freteagora/public_html/cms/login.php on line 76
+[04-Dec-2015 13:51:08 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/freteagora/public_html/cms/login.php on line 75
+[04-Dec-2015 13:51:55 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/freteagora/public_html/cms/login.php on line 75
+[04-Dec-2015 13:51:56 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/freteagora/public_html/cms/login.php on line 75
+[04-Dec-2015 13:51:56 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/freteagora/public_html/cms/login.php on line 75
+[04-Dec-2015 13:51:57 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/freteagora/public_html/cms/login.php on line 75
+[04-Dec-2015 13:51:57 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/freteagora/public_html/cms/login.php on line 75
+[04-Dec-2015 13:51:57 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/freteagora/public_html/cms/login.php on line 75
+[04-Dec-2015 13:51:57 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/freteagora/public_html/cms/login.php on line 75
+[04-Dec-2015 13:51:57 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/freteagora/public_html/cms/login.php on line 75
+[04-Dec-2015 14:05:01 UTC] PHP Fatal error:  Call to undefined function send_password_reset_email() in /home/freteagora/public_html/cms/login.php on line 60
+[05-Dec-2015 22:03:34 UTC] PHP Fatal error:  Undefined constant 'r\n' in /home/freteagora/public_html/cms/core/functions.php on line 63
+[05-Dec-2015 22:04:20 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/freteagora/public_html/cms/core/functions.php on line 71
+[05-Dec-2015 22:04:49 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/freteagora/public_html/cms/core/functions.php on line 71
+[05-Dec-2015 22:07:43 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/freteagora/public_html/cms/core/functions.php on line 64
+[05-Dec-2015 22:07:45 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/freteagora/public_html/cms/core/functions.php on line 64
+[05-Dec-2015 22:55:14 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/freteagora/public_html/cms/login.php on line 116
+[05-Dec-2015 22:55:16 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/freteagora/public_html/cms/login.php on line 116
+[05-Dec-2015 23:32:34 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/freteagora/public_html/cms/login.php on line 89
+[09-Dec-2015 03:36:53 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/freteagora/public_html/cms/cadastro.php on line 71
+[09-Dec-2015 03:37:00 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/freteagora/public_html/cms/cadastro.php on line 71
+[09-Dec-2015 04:29:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/freteagora/public_html/cms/cadastro.php on line 43
+[09-Dec-2015 01:29:42 America/Recife] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/freteagora/public_html/cms/cadastro.php on line 23
+[09-Dec-2015 01:45:21 America/Recife] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/freteagora/public_html/cms/cadastro.php on line 42
+[10-Dec-2015 05:01:13 America/Recife] PHP Parse error:  syntax error, unexpected '"1, Usuário removido com suce' (T_CONSTANT_ENCAPSED_STRING) in /home/freteagora/public_html/cms/modules/users/remove.php on line 11
+[10-Dec-2015 05:01:40 America/Recife] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/freteagora/public_html/cms/modules/users/remove.php on line 14
+[10-Dec-2015 05:01:53 America/Recife] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freteagora/public_html/cms/core/layout/top.php:46) in /home/freteagora/public_html/cms/modules/users/remove.php on line 12
+[10-Dec-2015 05:01:53 America/Recife] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freteagora/public_html/cms/core/layout/top.php:46) in /home/freteagora/public_html/cms/modules/users/remove.php on line 13
+[10-Dec-2015 05:03:15 America/Recife] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freteagora/public_html/cms/core/layout/top.php:46) in /home/freteagora/public_html/cms/modules/users/remove.php on line 12
+[10-Dec-2015 05:03:35 America/Recife] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freteagora/public_html/cms/core/layout/top.php:46) in /home/freteagora/public_html/cms/modules/users/remove.php on line 12
+[10-Dec-2015 05:03:40 America/Recife] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freteagora/public_html/cms/core/layout/top.php:46) in /home/freteagora/public_html/cms/modules/users/remove.php on line 12
+[10-Dec-2015 05:05:19 America/Recife] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freteagora/public_html/cms/core/layout/top.php:46) in /home/freteagora/public_html/cms/modules/users/remove.php on line 13
+[10-Dec-2015 05:05:19 America/Recife] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/freteagora/public_html/cms/core/layout/top.php:46) in /home/freteagora/public_html/cms/modules/users/remove.php on line 15
+[10-Dec-2015 05:09:02 America/Recife] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/freteagora/public_html/cms/modules/users/manage.php on line 16
+[10-Dec-2015 05:18:49 America/Recife] PHP Warning:  require_once(functions.php): failed to open stream: No such file or directory in /home/freteagora/public_html/cms/core/main.php on line 5
+[10-Dec-2015 05:18:49 America/Recife] PHP Fatal error:  require_once(): Failed opening required 'functions.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/freteagora/public_html/cms/core/main.php on line 5
+[10-Dec-2015 05:19:19 America/Recife] PHP Parse error:  syntax error, unexpected ''</td>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/freteagora/public_html/cms/modules/users/manage.php on line 54
+[10-Dec-2015 05:19:20 America/Recife] PHP Parse error:  syntax error, unexpected ''</td>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/freteagora/public_html/cms/modules/users/manage.php on line 54
+[10-Dec-2015 05:19:21 America/Recife] PHP Parse error:  syntax error, unexpected ''</td>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/freteagora/public_html/cms/modules/users/manage.php on line 54
+[11-Dec-2015 00:34:12 America/Recife] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/freteagora/public_html/cms/modules/banners/insert.php on line 10
+[22-Dec-2015 09:41:56 America/Recife] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/thinkabit/public_html/samples/freteagora-cms/login.php on line 13
+[22-Dec-2015 12:55:01 America/Recife] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/thinkabit/public_html/samples/freteagora-cms/modules/banners/insert.php on line 10
+[22-Dec-2015 12:57:48 America/Recife] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/thinkabit/public_html/samples/freteagora-cms/modules/banners/insert.php on line 10

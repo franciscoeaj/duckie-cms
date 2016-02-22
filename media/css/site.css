@@ -1,0 +1,31 @@
+td > .glyphicon {
+    margin: 0 4px;
+    cursor: pointer;
+}
+
+#credits {
+	background-color: rgba(0, 0, 0, 0.05);
+	padding: 10px;
+	position: fixed;
+	bottom: 0;
+	width: 250px;
+}
+
+.monospace-font {
+	font-family: monospace;
+}
+
+#credits > p {
+	font-size: 11px;
+}
+
+@media (max-width: 767px) {
+	#credits {
+		position: relative !important;
+		width: auto !important;
+	}
+}
+
+#page-wrapper {
+	padding-bottom: 20px;
+}
