@@ -1,1 +1,0 @@
-[09-Dec-2015 00:02:01 America/Recife] PHP Fatal error:  Undefined class constant 'INT' in /home/freteagora/public_html/cms/core/jobs/reset-password-requests.php on line 16
